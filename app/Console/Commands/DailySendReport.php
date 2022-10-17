@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Mail;
 
 class DailySendReport extends Command
 {
-    protected $signature = 'report:generate';
+    protected $signature = 'report:send';
 
     protected $description = 'Send txt report';
 
