@@ -49,7 +49,7 @@ Manually show id from Ids table
     php artisan ids:retrieve {id}
     ```
 
-Generate txt report for Ids table
+Generate txt report for Ids table and save it to report folder
     ```
     php artisan report:generate
     ```
